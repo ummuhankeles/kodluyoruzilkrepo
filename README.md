@@ -7,7 +7,7 @@ git clone https://github.com/ummuhankeles/kodluyoruzilkrepo.git
 ```
 
 # Usage
-Projeyi cloneladıktan sonra Visual Code programında açınız.
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```
