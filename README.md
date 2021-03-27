@@ -20,3 +20,5 @@ Pull requestler kabul edilir. Lütfen önce neyi değiştirmek istediğinizi tar
 
 # License
 [MIT](https://github.com/github/choosealicense.com/blob/gh-pages/LICENSE.md)
+
+![image](kodluyoruzilkrepo.png)
